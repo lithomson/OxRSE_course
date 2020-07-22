@@ -1,5 +1,6 @@
 ![Python 3.6 to 3.8](https://github.com/lithomson/OxRSE_course/workflows/Python%203.6%20to%203.8/badge.svg)
 ![Windows macOS and Linux](https://github.com/lithomson/OxRSE_course/workflows/Windows%20macOS%20and%20Linux/badge.svg)
+[![codecov](https://codecov.io/gh/lithomson/OxRSE_course/branch/master/graph/badge.svg?token=RDOATIST8A)](https://codecov.io/gh/lithomson/OxRSE_course)
 
 # OxRSE Continuous Integration course
 
